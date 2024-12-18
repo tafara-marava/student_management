@@ -5,7 +5,7 @@
 Student Management System
 
 **Project Description**:  
-This project is a simple Python-based Student Management System that interacts with an SQLite database to manage student records. It allows users to add, update, delete, and query student data. The system uses SQL queries to interact with the database and provides a console-based interface for users to perform operations on student records.
+This project is a simple Python-based Student Management System that interacts with an SQLite database to manage student records. It allows users to add, update, delete, and query student data. The system uses SQL queries to interact with the database, and it provides a console-based interface for users to perform operations on student records.
 
 **Project Goals**:  
 - Create a SQL database to store student records.

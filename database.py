@@ -2,7 +2,7 @@
 import sqlite3
 
 def create_connection():
-    # Connects to the database (creates it if it doesn't exist)
+    # Connects to the database (or creates it if it doesn't exist)
     conn = sqlite3.connect('student_management.db')
     return conn
 

@@ -3,7 +3,7 @@ from student_operations import add_student, update_student, delete_student, quer
 from database import create_tables
 
 def main():
-    create_tables()  # Ensure tables are created before performing any operation
+    create_tables()  # Ensure tables are created before performing any operation.
 
     while True:
         print("\nStudent Management System")

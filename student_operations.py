@@ -1,4 +1,4 @@
-# student_operations.py
+# student_operations.py #
 from database import create_connection
 
 def add_student(first_name, last_name, birth_date, gender):
